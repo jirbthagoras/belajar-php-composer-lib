@@ -1,0 +1,16 @@
+{
+    "name": "jirbthagoras/belajar-php-composer-lib",
+    "description": "Belajar PHP composer Library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jirbthagoras"
+        }
+    ],
+    "require": {
+        "php" : ">=8.0"
+    },
+    "autoload": {
+        "jirb\\belajar\\" : "src/"
+    }
+}
