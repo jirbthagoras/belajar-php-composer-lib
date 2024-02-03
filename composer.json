@@ -11,6 +11,7 @@
         "php" : ">=8.0"
     },
     "autoload": {
-        "jirb\\belajar\\" : "src/"
+        "psr-4": {"jirb\\belajar\\" : "src/"
+        }
     }
 }
